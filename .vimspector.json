@@ -1,0 +1,13 @@
+ {
+   "configurations": {
+     "launch": {
+       "adapter": "netcoredbg",
+       "configuration": {
+         "request": "launch",
+         "program": "/data/code/test/minimalTestExample/MainProject/bin/Debug/net7.0/minimalTestExample.dll",
+         "args": [],
+         "stopAtEntry": false
+       }
+     }
+   }
+ }
